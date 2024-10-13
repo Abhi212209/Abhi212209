@@ -1,11 +1,8 @@
 # Abhishek Shukla
 
-
-### Skills
 ### About Me
 
-I'm Abhishek Shukla, a dedicated BCA graduate with a passion for Python, DBMS, SQL, Cyber Security, and Data Science. I'm excited to share my projects and experiences with the GitHub community.
-
+I'm Abhishek Shukla, a dedicated BCA graduate with a passion for Python, DBMS, SQL and Data Science. I'm a lifelong learner with a strong foundation in computer science, and I'm excited to share my projects and experiences with the GitHub community. I'm committed to delivering high-quality work and collaborating with others to drive innovation.
 ### Skills
 
 #### Technical Skills
