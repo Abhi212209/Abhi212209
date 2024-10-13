@@ -73,9 +73,6 @@ I'm Abhishek Shukla, a dedicated BCA graduate with a passion for Python, DBMS, S
 * **LinkedIn**: [linkedin.com/in/abhishekshukla2209](https://linkedin.com/in/abhishekshukla2209)
 * **Twitter**: [twitter.com/abhishekshukla2209](https://twitter.com/abhishekshukla2209)
 
-### Stats
-
-[![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhi212209&show_icons=true&theme=radical)](https://github.com/abhishekshukla2209)
 
 ### Top Languages
 
