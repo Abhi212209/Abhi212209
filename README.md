@@ -1,6 +1,5 @@
 # Abhishek Shukla
-================
-[![Abhishek Shukla](https://avatars.githubusercontent.com/u/Abhi212209?v=4)](https://github.com/abhishekshukla2209)
+
 
 ### Skills
 ### About Me
@@ -84,6 +83,3 @@ I'm Abhishek Shukla, a dedicated BCA graduate with a passion for Python, DBMS, S
 ### Top Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi212209&layout=compact&theme=radical)](https://github.com/abhishekshukla2209)
-
-
-[![GitHub Actions](https://github.com/abhishekshukla2209/abhishekshukla2209/actions/workflows/update-readme.yml/badge.svg)](https://github.com/abhishekshukla2209/abhishekshukla2209/actions/workflows/update-readme.yml)
